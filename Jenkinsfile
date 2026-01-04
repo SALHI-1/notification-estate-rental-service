@@ -1,6 +1,6 @@
-@Library('jenkins-shared-library') _
+@Library('PrincipalPipeLine') _
 
 standardBackendPipeline(
     appName: 'notification-estate-rental-service',
-    registry: 'yassinekamouss'
+    registry: 'saaymo'
 )
