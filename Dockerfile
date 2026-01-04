@@ -1,6 +1,6 @@
 FROM eclipse-temurin:17-jre-alpine
 
-LABEL maintainer="yassinekamouss"
+LABEL maintainer="saaymo"
 
 VOLUME /tmp
 
